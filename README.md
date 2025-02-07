@@ -5,5 +5,5 @@
 - uses Node JS v20
 - Using this line
 - This is to confirm it works
-- Confirming again
+- Confirming again ...
 # tech501-sparta-app-cicd
