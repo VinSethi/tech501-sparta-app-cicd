@@ -8,5 +8,5 @@
 - Confirming again ....
 - PLUGIN METHOD
 -Working
--Hello.
+-Hello..
 # tech501-sparta-app-cicd
